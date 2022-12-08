@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------
+
+Author: Yavuz Mert ÖVGÜER
+Date: 14/09/2022
+Purpose: Make navigation bot as copilot, which tells information about route
+
+Note-1:
+        if you want to change voice you
+        can just replace the mp3 files
+        with any mp3 file you want. Just
+        name files as originals,
+        have a nice drive !!!
+
+Note-2:
+	Sometimes its become slow and i 
+	am busy these days. If i have time, 
+	i will do forzaBot 2.0. And it needs
+	improvements such as signals pop out
+	on the screen instead of voice signals.
+	Now its just like demo, for opinions
+	about demo and please write
+	recommendations about forzaBot
+
+------------------------------------------------------------------------------------
